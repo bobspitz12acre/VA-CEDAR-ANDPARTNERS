@@ -8,9 +8,9 @@ The Case Studies and respective artifacts for VA-CEDAR
 
 ##### Artifacts
 
- * Framework for Legacy System Assessments: ./Case Study 1 - &Partners - Framework for Legacy System Assessments.pdf
- * IHS Health IT Modernization Archetypes: ./Case Study 1 - &Partners - IHS Health IT Modernization Archetypes.pdf
- * IHS Research Plan: ./Case Study 1 - &Partners - IHS Research Plan.pdf
+ * [Framework for Legacy System Assessments](https://github.com/prtnrs/VA-CEDAR-ANDPARTNERS/blob/master/Case%20Study%201%20-%20%26Partners%20-%20Framework%20for%20Legacy%20System%20Assessments.pdf)
+ * [IHS Health IT Modernization Archetypes](https://github.com/prtnrs/VA-CEDAR-ANDPARTNERS/blob/master/Case%20Study%201%20-%20%26Partners%20-%20IHS%20Health%20IT%20Modernization%20Archetypes.pdf)
+ * [IHS Research Plan](https://github.com/prtnrs/VA-CEDAR-ANDPARTNERS/blob/master/Case%20Study%201%20-%20%26Partners%20-%20IHS%20Research%20Plan.pdf)
 
 ## Case Study 2
 ### Online Case Management System for U.S. Tax Court
