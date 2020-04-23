@@ -24,7 +24,7 @@ The Case Studies and respective artifacts for VA-CEDAR
 
 
 ## Case Study 3
-### _Project Name_
+### MILITARY COMMUNITY AND FAMILY POLICY (MC&FP) OUTREACH AND DIGITAL ENTERPRISE SERVICES (MODES) 
 #### Halfaker 
 
 ##### Artifacts
